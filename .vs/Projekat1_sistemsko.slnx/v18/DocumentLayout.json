@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Faks\\Projekat1_sistemsko_git\\PrviProjekat_Sistemsko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EB1B70-F51D-833B-F112-7EBFAC6BFDFB}|Projekat1_sistemsko\\Projekat1_sistemsko.csproj|c:\\faks\\projekat1_sistemsko_git\\prviprojekat_sistemsko\\projekat1_sistemsko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EB1B70-F51D-833B-F112-7EBFAC6BFDFB}|Projekat1_sistemsko\\Projekat1_sistemsko.csproj|solutionrelative:projekat1_sistemsko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EB1B70-F51D-833B-F112-7EBFAC6BFDFB}|Projekat1_sistemsko\\Projekat1_sistemsko.csproj|c:\\faks\\projekat1_sistemsko_git\\prviprojekat_sistemsko\\projekat1_sistemsko\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EB1B70-F51D-833B-F112-7EBFAC6BFDFB}|Projekat1_sistemsko\\Projekat1_sistemsko.csproj|solutionrelative:projekat1_sistemsko\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EB1B70-F51D-833B-F112-7EBFAC6BFDFB}|Projekat1_sistemsko\\Projekat1_sistemsko.csproj|c:\\faks\\projekat1_sistemsko_git\\prviprojekat_sistemsko\\projekat1_sistemsko\\cacheitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EB1B70-F51D-833B-F112-7EBFAC6BFDFB}|Projekat1_sistemsko\\Projekat1_sistemsko.csproj|solutionrelative:projekat1_sistemsko\\cacheitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EB1B70-F51D-833B-F112-7EBFAC6BFDFB}|Projekat1_sistemsko\\Projekat1_sistemsko.csproj|c:\\faks\\projekat1_sistemsko_git\\prviprojekat_sistemsko\\projekat1_sistemsko\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EB1B70-F51D-833B-F112-7EBFAC6BFDFB}|Projekat1_sistemsko\\Projekat1_sistemsko.csproj|solutionrelative:projekat1_sistemsko\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EB1B70-F51D-833B-F112-7EBFAC6BFDFB}|Projekat1_sistemsko\\Projekat1_sistemsko.csproj|c:\\faks\\projekat1_sistemsko_git\\prviprojekat_sistemsko\\projekat1_sistemsko\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EB1B70-F51D-833B-F112-7EBFAC6BFDFB}|Projekat1_sistemsko\\Projekat1_sistemsko.csproj|solutionrelative:projekat1_sistemsko\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EB1B70-F51D-833B-F112-7EBFAC6BFDFB}|Projekat1_sistemsko\\Projekat1_sistemsko.csproj|c:\\faks\\projekat1_sistemsko_git\\prviprojekat_sistemsko\\projekat1_sistemsko\\customqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EB1B70-F51D-833B-F112-7EBFAC6BFDFB}|Projekat1_sistemsko\\Projekat1_sistemsko.csproj|solutionrelative:projekat1_sistemsko\\customqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cache.cs",
+              "DocumentMoniker": "C:\\Faks\\Projekat1_sistemsko_git\\PrviProjekat_Sistemsko\\Projekat1_sistemsko\\Cache.cs",
+              "RelativeDocumentMoniker": "Projekat1_sistemsko\\Cache.cs",
+              "ToolTip": "C:\\Faks\\Projekat1_sistemsko_git\\PrviProjekat_Sistemsko\\Projekat1_sistemsko\\Cache.cs",
+              "RelativeToolTip": "Projekat1_sistemsko\\Cache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:49:29.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CacheItem.cs",
+              "DocumentMoniker": "C:\\Faks\\Projekat1_sistemsko_git\\PrviProjekat_Sistemsko\\Projekat1_sistemsko\\CacheItem.cs",
+              "RelativeDocumentMoniker": "Projekat1_sistemsko\\CacheItem.cs",
+              "ToolTip": "C:\\Faks\\Projekat1_sistemsko_git\\PrviProjekat_Sistemsko\\Projekat1_sistemsko\\CacheItem.cs",
+              "RelativeToolTip": "Projekat1_sistemsko\\CacheItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:49:21.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomQueue.cs",
+              "DocumentMoniker": "C:\\Faks\\Projekat1_sistemsko_git\\PrviProjekat_Sistemsko\\Projekat1_sistemsko\\CustomQueue.cs",
+              "RelativeDocumentMoniker": "Projekat1_sistemsko\\CustomQueue.cs",
+              "ToolTip": "C:\\Faks\\Projekat1_sistemsko_git\\PrviProjekat_Sistemsko\\Projekat1_sistemsko\\CustomQueue.cs",
+              "RelativeToolTip": "Projekat1_sistemsko\\CustomQueue.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:46:03.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Faks\\Projekat1_sistemsko_git\\PrviProjekat_Sistemsko\\Projekat1_sistemsko\\Server.cs",
+              "RelativeDocumentMoniker": "Projekat1_sistemsko\\Server.cs",
+              "ToolTip": "C:\\Faks\\Projekat1_sistemsko_git\\PrviProjekat_Sistemsko\\Projekat1_sistemsko\\Server.cs",
+              "RelativeToolTip": "Projekat1_sistemsko\\Server.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAIwLwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:36:25.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Faks\\Projekat1_sistemsko_git\\PrviProjekat_Sistemsko\\Projekat1_sistemsko\\Log.cs",
+              "RelativeDocumentMoniker": "Projekat1_sistemsko\\Log.cs",
+              "ToolTip": "C:\\Faks\\Projekat1_sistemsko_git\\PrviProjekat_Sistemsko\\Projekat1_sistemsko\\Log.cs",
+              "RelativeToolTip": "Projekat1_sistemsko\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:28:17.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Faks\\Projekat1_sistemsko_git\\PrviProjekat_Sistemsko\\Projekat1_sistemsko\\Program.cs",
+              "RelativeDocumentMoniker": "Projekat1_sistemsko\\Program.cs",
+              "ToolTip": "C:\\Faks\\Projekat1_sistemsko_git\\PrviProjekat_Sistemsko\\Projekat1_sistemsko\\Program.cs",
+              "RelativeToolTip": "Projekat1_sistemsko\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:24:32.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IIXifp8gcNY=",
+  "dgSpecHash": "fKM0tdr02qo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\andri\\source\\repos\\Projekat1_sistemsko\\Projekat1_sistemsko\\Projekat1_sistemsko.csproj",
+  "projectFilePath": "C:\\Faks\\Projekat1_sistemsko_git\\PrviProjekat_Sistemsko\\Projekat1_sistemsko\\Projekat1_sistemsko.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andri\\.nuget\\packages\\dotnetenv\\3.2.0\\dotnetenv.3.2.0.nupkg.sha512",
     "C:\\Users\\andri\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",

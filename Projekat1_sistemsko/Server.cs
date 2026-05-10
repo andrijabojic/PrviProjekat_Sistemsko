@@ -84,7 +84,7 @@ class Server
                 string jsonResult = _cache.Get(city);
                 if (jsonResult != null)
                 {
-                    Console.WriteLine($"Pogodak kesa! Podaci za {city} poslati iz memorije.");
+                    Log.Input($"Pogodak kesa! Podaci za {city} poslati iz memorije.");
                     SendResponse(context, jsonResult, HttpStatusCode.OK);
                 }
                 else
@@ -97,7 +97,7 @@ class Server
                         
                         if (jsonResult == null)
                         {
-                            Console.WriteLine($"Promasaj kesa! Zovem API za {city}...");
+                            Log.Input($"Promasaj kesa! Zovem API za {city}...");
                             jsonResult = FetchFromWeatherApi(city);
                             if(jsonResult != null)
                             {
